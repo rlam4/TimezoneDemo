@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TimezoneDemo</string>
+
+    <string-array name="spinner_item">
+        <item>America/Los_Angeles</item>
+        <item>America/New_York</item>
+        <item>America/Montreal</item>
+        <item>Asia/Seoul</item>
+        <item>Asia/Tokyo</item>
+        <item>Europe/London</item>
+        <item>Europe/Paris</item>
+        <item>Europe/Rome</item>
+    </string-array>
+</resources>
